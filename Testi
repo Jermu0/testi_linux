@@ -1,5 +1,5 @@
   conn = mysql.connector.connect (
-                host="86.50.21.54",
+                host=".---",
                 user="exampleuser",
                 password="Feikkisalasana"
                 database="exampledb"
